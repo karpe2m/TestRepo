@@ -11,6 +11,7 @@ namespace testApplication
         {
             Console.WriteLine("Pozdrav, Karmen!");
             Console.WriteLine("Pozdrav, Tamara!");
+            Console.WriteLine("nesto dodano");
         }
     }
 }
