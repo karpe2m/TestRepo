@@ -10,6 +10,7 @@ namespace testApplication
         static void Main(string[] args)
         {
             Console.WriteLine("Pozdrav, Karmen!");
+            Console.WriteLine("Pozdrav, Tamara!");
         }
     }
 }
