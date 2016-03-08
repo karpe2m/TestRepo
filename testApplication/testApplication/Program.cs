@@ -9,7 +9,7 @@ namespace testApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ERROR");
+            Console.WriteLine("Pozdrav, Karmen!");
         }
     }
 }
